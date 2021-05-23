@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "name": "Truevia-Game",
+    "image": "https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/Truevia.PNG",
+    "github": "https://github.com/Group3bootcamp/Truevia-Game",
+    "deploy": "https://mysterious-coast-93940.herokuapp.com/",
+    "topics": "node-js, opentdb-api, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt"
+    },
+    {
+    "id": 2,
+    "name": "mvc tech blog",
+    "image": "https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/tech-blog.PNG",
+    "github": "https://github.com/lim95/mvc-tech-blog",
+    "deploy": "https://mvc-tech-blog1.herokuapp.com/",
+    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    },
+    {
+    "id": 3,
+    "name": "budget tracker",
+    "image": "https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/pwabudget.PNG",
+    "github": "https://github.com/Lim95/budget-tracker",
+    "deploy": "https://budget-tracker-lim.herokuapp.com/",
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+    "id": 4,
+    "name": "weather dashboard",
+    "image": "https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
+    "github": "https://github.com/Lim95/Weather-forecast",
+    "deploy": "https://lim95.github.io/Weather-forecast/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 5,
+    "name": "Tweet Tracks",
+    "image": "https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/tweet-tracks-screenshot.png",
+    "github": "https://github.com/projone/tweet-tracks",
+    "deploy": "https://projone.github.io/tweet-tracks/",
+    "topics": "HTML, CSS, API, Javascript"
+      },
+    {
+    "id": 6,
+    "name": "Dog Dash",
+    "image": "https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/dog-dash.png",
+    "github": "https://github.com/pro3gro3/walk-my-dog",
+    "deploy": "https://dog-dash.herokuapp.com/",
+    "topics": "HTML, CSS, Javascript, mongoDB, React, GraphQL, mongoose, Semantic UI, Apopllo, node express. AWS"
+      }
+]
