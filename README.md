@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Below is a screenshot of the application:
   
-![lim-react-portfolio](https://github.com/lim95/lim-react-portfolio/raw/master/src/assets/images/Capture.PNG)
+![lim-react-portfolio](https://github.com/Lim95/lim-react-portfolio/blob/master/src/assets/images/Capture.PNG)
 
 ## Table of Contents
 
